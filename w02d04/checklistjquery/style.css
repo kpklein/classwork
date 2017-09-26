@@ -1,0 +1,41 @@
+.buttoncss{
+width: 50px;
+height: 30px;
+text-align: center;
+display: inline-block;
+
+}
+
+.check{
+
+	display: inline-block;
+	padding-right: 10px;
+	font-size: 30px;
+}
+
+#box1{
+	display: table;
+	margin: 0 auto;
+	padding: 10px, 10px 10px 10px;
+	border: 1px solid black;
+
+
+}
+
+#btn1{
+
+width: 100px;
+height: 30px;
+text-align: center;
+display: inline-block;
+
+}
+
+#inputbox{
+width: 400px;
+height: 30px;
+text-align: center;
+font-size: 20px;
+display: inline-block;
+
+}

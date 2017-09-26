@@ -1,0 +1,27 @@
+.small-ball{
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	border-radius: 100%;
+}
+
+/*.green-ball{
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	border-radius: 100%;
+
+
+}
+
+.yellow-ball{
+	position: absolute;
+	height: 400px;
+	width: 400px;
+	background-color: yellow;
+	border-radius: 100%;
+
+
+}*/

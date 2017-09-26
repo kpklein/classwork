@@ -1,0 +1,120 @@
+code
+	// console.log('ready to go');
+
+	// //fadeIn()
+	// // fadeOut()
+	// // fadeToggle()
+	// //.hide()
+	// //.show()
+	// //.toggle()
+	// //.slideup()
+	// //.slidedown()
+
+
+	// var $redBall = $('.small-ball');
+
+	// $redBall
+	// 	.animate({
+ //      height: '200px',
+ //      width: '200px',
+ //      top: '100px',
+ //      left: '300px',
+ //      borderRadius: '0%',
+ //      opacity: '0.2',
+ //    }, 1000)
+
+	// 	.animate({
+ //      height: '200px',
+ //      width: '200px',
+ //      top: '100px',
+ //      left: '300px',
+ //      borderRadius: '0%',
+ //      opacity: '0.0',
+ //    }, 3000)
+
+	// 	.animate({
+ //      height: '+=200px',
+ //      width: '+=400px',
+ //      top: '100px',
+ //      left: '300px',
+ //      borderRadius: '0%',
+ //      opacity: '0.0',
+ //    }, 2000)
+
+  
+
+	// var $greenBall = $('.green-ball');
+
+	// $greenBall
+	// 	.animate({
+ //      height: '200px',
+ //      width: '200px',
+ //      top: '100px',
+ //      left: '300px',
+ //      borderRadius: '0%',
+ //      opacity: '0.0',
+
+     
+ //    }, 2000)
+
+	// var $yellowBall = $('.yellow-ball');
+
+	// $yellowBall
+	// 	.animate({
+ //      height: '200px',
+ //      width: '200px',
+ //      top: '100px',
+ //      left: '300px',
+ //      borderRadius: '0%',
+ //      opacity: '0.0',
+     
+ //    }, 2000)
+	// 	.animate({
+ //      height: '-=200px',
+ //      width: '-=200px',
+ //      top: '100px',
+ //      left: '300px',
+ //      borderRadius: '0%',
+ //      opacity: '0.0',
+     
+ //    }, 1000)
+
+	// $redBall
+	// 	.animate({
+ //      height: '200px',
+ //      width: '200px',
+ //      top: '100px',
+ //      left: '300px',
+ //      borderRadius: '0%',
+ //      opacity: '0.0',
+ //    }, 1000)
+
+	// $yellowBall
+	// 	.animate({
+ //      height: '200px',
+ //      width: '200px',
+ //      top: '100px',
+ //      left: '300px',
+ //      borderRadius: '0%',
+ //      opacity: '0.0',
+     
+ //    }, 2000)
+
+	// $redBall
+	// 	.animate({
+ //      height: '200px',
+ //      width: '200px',
+ //      top: '100px',
+ //      left: '300px',
+ //      borderRadius: '0%',
+ //      opacity: '0.0',
+ //    }, 1000)
+	// 	.animate({
+ //      height: '500px',
+ //      width: '200px',
+ //      top: '100px',
+ //      left: '300px',
+ //      borderRadius: '0%',
+ //      opacity: '0.0',
+     
+ //    }, 2000)

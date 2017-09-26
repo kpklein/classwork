@@ -1,0 +1,33 @@
+#big-square {
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+  background-color: orange;
+  display: none;
+  text-align: center;
+  padding-top: 100px;
+
+}
+#small-square{
+	height: 150px;
+	width: 150px;
+	margin: 10px;
+	background-color: Red;
+	display: none;
+	text-align: center;
+	padding-top: 100px;
+
+
+}
+
+
+.button1{
+	height: 100px;
+  width: 100px;
+  margin: 10px;
+  background-color: red;
+  display: none;
+  text-align: center;
+  padding-top: 100px;
+
+}

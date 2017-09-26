@@ -1,0 +1,37 @@
+h1 {
+font-size: 50px;
+border: 3px solid black;
+border-radius: 20px;
+text-align: center;
+background-color: green;
+color:red;
+}
+
+.done {
+	text-decoration: line-through red;
+}
+
+#my-p-tag a {
+	font-weight: 900;
+	font-size: 10px;
+
+}
+
+#div-left {
+	display: inline-block;
+	width: 500px;
+	height:200px;
+}
+#div-right {
+	display: inline-block;
+	width: 500px;
+	height: 200px;
+}
+
+#middle-div {
+
+	width: 300px;
+	height: 400px;
+	margin: 0 auto;
+
+}
