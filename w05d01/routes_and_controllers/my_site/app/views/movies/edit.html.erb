@@ -1,0 +1,16 @@
+<h1>Movies#edit</h1>
+
+<%= form_for(@movie) do |movie| %>
+      
+      <%= movie.label :title %>
+      <%= movie.text_field :title, class: 'form-control' %>
+
+      <%= movie.label :desc %>
+      <%= movie.text_field :desc, class: 'form-control' %>
+
+      <%= movie.label :age_r %>
+      <%= movie.text_field :age_r, class: 'form-control' %>
+
+      <%= movie.submit "Save changes", class: "movie" %>
+
+    <% end %>
